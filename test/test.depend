@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384778401 source:c:\users\ady\desktop\proiect fp\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

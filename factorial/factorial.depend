@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384344666 source:c:\users\ady\desktop\proiect fp\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

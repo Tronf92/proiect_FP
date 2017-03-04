@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384507627 source:c:\users\ady\desktop\proiect fp\aia\main.c
+	<stdio.h>
+	<conio.h>
+
